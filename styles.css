@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+}
+body {
+    background:linear-gradient(to top,rgba(225, 47, 47, 0.855) ,pink)
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 13, 9);
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 160px;
+    color: rgb(249, 15, 15);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: black;
+}
+
+.dice-img {
+    border: 5px solid rgb(4, 3, 3);
+    width: 100%;
+}
+
+p {
+    font-size: 1.2rem;
+}
